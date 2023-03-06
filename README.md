@@ -1,5 +1,5 @@
 # Deposits Balance Web SDK
-The balance SDK is Deposits' all-in-one, plug and play, mass payment management system.
+The balance SDK is Deposits' plug and play user wallet for any system.
   
 
 ### Getting Started

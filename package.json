@@ -1,6 +1,6 @@
 {
   "name": "@deposits/balance-sdk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Balance SDK lets you receive funds",
   "main": "package/index.js",
   "scripts": {
