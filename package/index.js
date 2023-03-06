@@ -85,7 +85,7 @@ function DepositsBalance({
 }) {
   callbackFunc = callback;
   onPageClosed = on_page_closed;
-  if (document.getElementById("deposits_kysync_frame_wrapper")) {
+  if (document.getElementById("deposits_balance_frame_wrapper")) {
   } else {
     let apiUrl = "";
     if (use_localhost) {
@@ -111,7 +111,7 @@ function DepositsBalance({
     iframe.style.left = "0";
     iframe.style.transition = "left 1s ease, bottom 1s ease, right 1s ease";
     wrapper = document.createElement("div");
-    wrapper.id = "deposits_kysync_frame_wrapper";
+    wrapper.id = "deposits_balance_frame_wrapper";
     wrapper.style.position = "fixed";
     wrapper.style.border = "none";
     wrapper.style.width = "100%";
