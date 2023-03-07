@@ -1,5 +1,5 @@
 # Deposits Balance Web SDK
-The balance SDK is Deposits' plug and play user wallet for any system.
+The balance SDK is Deposits' plug and play money wallet for any system.
   
 
 ### Getting Started
