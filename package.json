@@ -1,6 +1,6 @@
 {
   "name": "@deposits/balance-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The balance SDK is Deposits' plug and play money wallet for any system.",
   "main": "package/index.js",
   "scripts": {
